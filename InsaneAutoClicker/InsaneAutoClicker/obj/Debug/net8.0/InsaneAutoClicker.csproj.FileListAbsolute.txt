@@ -1,0 +1,14 @@
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\bin\Debug\net8.0\InsaneAutoClicker.exe
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\bin\Debug\net8.0\InsaneAutoClicker.deps.json
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\bin\Debug\net8.0\InsaneAutoClicker.runtimeconfig.json
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\bin\Debug\net8.0\InsaneAutoClicker.dll
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\bin\Debug\net8.0\InsaneAutoClicker.pdb
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\InsaneAutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\InsaneAutoClicker.AssemblyInfoInputs.cache
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\InsaneAutoClicker.AssemblyInfo.cs
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\InsaneAutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\InsaneAutoClicker.dll
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\refint\InsaneAutoClicker.dll
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\InsaneAutoClicker.pdb
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\InsaneAutoClicker.genruntimeconfig.cache
+C:\Users\Ethan\Downloads\InsaneAutoClicker\InsaneAutoClicker\obj\Debug\net8.0\ref\InsaneAutoClicker.dll
